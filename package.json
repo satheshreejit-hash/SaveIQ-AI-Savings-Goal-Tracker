@@ -1,0 +1,25 @@
+{
+  "name": "saveiq-ai-savings-goal-tracker",
+  "version": "1.0.0",
+  "description": "AI-powered personal finance management system combining Google Apps Script, Google Sheets, and Groq AI for intelligent savings goal tracking and automated deadline alerts.",
+  "main": "web/index.html",
+  "scripts": {
+    "test": "node tests/test_calculations.js",
+    "start": "npx serve web"
+  },
+  "keywords": [
+    "personal-finance",
+    "savings-tracker",
+    "groq-ai",
+    "google-apps-script",
+    "google-sheets",
+    "gmail-automation",
+    "llama3",
+    "fintech"
+  ],
+  "author": "SaveIQ Contributors",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}
