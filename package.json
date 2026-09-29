@@ -5,7 +5,7 @@
   "main": "web/index.html",
   "scripts": {
     "test": "node tests/test_calculations.js",
-    "start": "npx serve web"
+    "start": "node server.js"
   },
   "keywords": [
     "personal-finance",
